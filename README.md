@@ -1,4 +1,4 @@
 # ToDoList
 Make your To-Do-List here : 
-https://github.com/sakhipatel10/TodoList
+https://sakhipatel10.github.io/ToDoList/
 Technology: Javascript/JQuery
